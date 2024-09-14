@@ -4,9 +4,11 @@
 ## AIM:
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
 
+
 ## EQUIPMENTS REQUIRED:
 
 Android Studio(Min. required Artic Fox)
+
 
 
 ## ALGORITHM:
@@ -27,8 +29,10 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM
+
 ### DEVELOPED BY : PRAVEEN V
 ### REGISTER NO: 212222040121
+
 
 ### MainActivity.java:
 ```
@@ -96,6 +100,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
 ### Activity_Main.XML:
 ```
 <?xml version="1.0" encoding="utf-8"?>
